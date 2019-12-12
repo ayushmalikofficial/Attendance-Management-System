@@ -1,0 +1,59 @@
+         h2{
+             
+             background-color: #34495e ;
+               color:#ecf0f1;
+                          
+            
+            }
+            body{
+                background: #2c3e50;
+               font-family: sans-serif;
+             text-align:center;
+            }
+            div{
+                border:0px solid white;
+                    border-radius:20px;
+                    background-color: #ecf0f1;
+            
+                        }
+                      
+                        th.my{
+                        text-align:center;
+                            padding:5px;
+                            font-size:17px;
+                    border:0px;
+                    border-radius: 5px;
+                    background-color:whitesmoke;
+                          
+                            
+                        }
+                    
+                        td.m2{
+                      text-align:left;
+                            padding:5px;
+                            font-size:17px;
+                    border:0px;
+                    background-color: white;
+                    border-radius:5px;
+                    
+                        }  
+                        td.m1{
+                            text-align:left;
+                            font-size:17px;
+                          
+                        }
+            input.mybutton{
+                 
+                font-size: 18px;
+                color: white;
+                border:0px;
+                background-color:  #1bc6a4;
+                border-radius: 5px;
+             }
+            input.mybutton2{
+                font-size:18px;
+                border:0px;
+                background-color: white;
+                border-radius: 5px;
+            }
+   
